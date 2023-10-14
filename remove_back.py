@@ -10,7 +10,7 @@ cv2.imshow("imgo",imgo)
 
 
 #Removing the background
-height, width = imgo.shape[:2]
+height, width = imgo.shape[:2] #The code then proceeds to remove the background from the image. 
 
 #Create a mask holder
 mask = np.zeros(imgo.shape[:2],np.uint8)
@@ -40,5 +40,6 @@ final = background + img1
 cv2.imshow('image', final )
 cv2.imwrite("input.jpg",final)
 
+#The script waits for a key press with cv2.waitKey(0) and then closes all OpenCV windows with cv2.destroyAllWindows.
 cv2.waitKey(0)
 cv2.destroyAllWindows()
