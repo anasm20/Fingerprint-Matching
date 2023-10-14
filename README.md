@@ -1,7 +1,7 @@
 # Dokumentation für Fingerprint-Matching-Programm
 
 ## Einführung
-Dieses Dokument dient zur Erklärung eines Fingerprint-Matching-Programms, das für ein Eintrittssystem entwickelt wurde. Der Code dieses Programms stammt aus GitHub-Repositories der Benutzer "aasthac67" und wurde von "anasm20" weiterentwickelt. 
+Dieses Dokument dient zur Erklärung eines Fingerprint-Matching-Programms, das für ein Eintrittssystem entwickelt wurde. Der Code dieses Programms stammt ursprünglich aus GitHub-Repositories von "aasthac67" und wurde von "anasm20" weiterentwickelt. 
 
 Das Programm besteht aus drei separaten Code-Segmenten, die verschiedene Schritte im Verarbeitungsprozess für Fingerabdrücke durchführen. Das Hauptziel des Programms besteht darin, Fingerabdrücke zu vergleichen und potenzielle Übereinstimmungen zu identifizieren.
 
@@ -71,7 +71,7 @@ Ein Flann-basierter Matcher wird verwendet, um Übereinstimmungen zwischen den S
 
 
 ## Zusammenfassung
-Dieses Fingerprint-Matching-Programm wurde durch die Zusammenarbeit von Benutzer "aasthac67" und Benutzer "anasm20" entwickelt und in öffentlichen GitHub-Repositories gehostet. Die Code-Segmente wurden entwickelt, um verschiedene Schritte zur Verarbeitung von Fingerabdrücken durchzuführen. 
+Dieses Fingerprint-Matching-Programm wurde ursprünglich von "aasthac67" entwickelt und dann von "anasm20" weiterentwickelt. Es ist in öffentlichen GitHub-Repositories gehostet und dient dazu, verschiedene Schritte zur Verarbeitung von Fingerabdrücken durchzuführen und zu erklären.
 
 Der erste Code entfernt den Hintergrund, der zweite betont Merkmale und der dritte vergleicht Fingerabdrücke mit Hilfe von Schlüssel Punkten und Übereinstimmungen. Das Programm kann dazu verwendet werden, Fingerabdrücke zu vergleichen und Übereinstimmungen zu identifizieren, was in verschiedenen Sicherheits- und Identifikationsszenarien nützlich sein kann.
 
