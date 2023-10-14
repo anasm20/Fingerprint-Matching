@@ -1,9 +1,13 @@
 import cv2
 import numpy as np
 
+
+# It reads an image from a file called 'f1.jpeg' 
+# using cv2.imread and displays it in a window using cv2.imshow.
 #imgo = cv2.imread('./input/f2.jpg')
 imgo = cv2.imread('./input/f1.jpeg')
 cv2.imshow("imgo",imgo)
+
 
 #Removing the background
 height, width = imgo.shape[:2]
