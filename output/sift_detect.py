@@ -81,4 +81,4 @@ for file in glob.glob("*.png"):
 if flag == 0:
     print("No Matches among the given set!!")
 else:
-    print("Fingerprint Matche!")
+    print("Fingerprint Matched!")
