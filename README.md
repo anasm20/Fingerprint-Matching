@@ -1,4 +1,8 @@
-# Dokumentation für Fingerprint-Matching-Programm
+# "SCHEUNENTOR" Dokumentation für Fingerprint-Matching-Programm
+
+Powered by SCHEUNENTOR
+![Blue and Gray Modern Flat Protection Icon Security Logo](https://github.com/anasm20/Fingerprint-Matching/assets/112882511/d720d535-d5b5-4a82-b77e-c50cfd0a8192)
+
 
 ## Einführung
 Dieses Dokument dient zur Erklärung eines Fingerprint-Matching-Programms, das für ein Eintrittssystem entwickelt wurde. Der Code dieses Programms stammt ursprünglich aus GitHub-Repositories von "aasthac67" und wurde von "anasm20" weiterentwickelt. 
