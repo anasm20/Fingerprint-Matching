@@ -1,6 +1,6 @@
 # Dokumentation für Fingerprint-Matching-Programm
 
-### The new version is developed by me but the original code is from https://github.com/aasthac67/Fingerprint-Matching
+### The new version is developed by anasm20 but the original code is from https://github.com/aasthac67/Fingerprint-Matching
 
 ## Powered by SCHEUNENTOR
 
